@@ -21,3 +21,5 @@ Consider the following simple dice game
 
 Game Rules: 
 You pick a number from 1 to 6, and call this number your point.  You then roll a die 3 times.  If there is any match with your point, then you win $1; otherwise you pay the house $1.
+
+# CHESS
