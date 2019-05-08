@@ -1,6 +1,9 @@
 # college_projects_freshmanYear
 
-These are some games that I built in my freshman year
+These are some games that I built in my freshman year. These games are in C++ language. They were part of my class projects as well as the lab assignmnets. 
+
+# How to play?
+Just copy the whole code in an C++ compiler and run it. 
 
 
 # TESLA GAME (Individual)
@@ -15,10 +18,9 @@ BTW: Elon Musk is sleeping somewhere in the same room and you have to avoid waki
 
 # Chance (Individual)
 
-Consider the following simple dice game
+Consider the straightforward bones amusement Game. 
 
-Game Rules: 
-You pick a number from 1 to 6, and call this number your point.  You then roll a die 3 times.  If there is any match with your point, then you win $1; otherwise you pay the house $1.
+Game Rules: You pick a number from 1 to 6, and consider this number your point. You at that point roll the dice three times. On the off chance that there is any match with your point, at that point you win $1; else you pay the house $1..
 
 # CHESS (Group)
 
