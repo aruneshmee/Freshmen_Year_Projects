@@ -28,11 +28,11 @@ Description: The game is basically similar to regular chess game.
 
 INTERESTING FACTS ABOUT OUR PROGRAM:
 
--The program can print the board after every turn.
--The game can be played by two users.
--The game has a user friendly coordinate system that helps the users to make each move.
--The program has colored pieces to differentiate between two users: RED and BLUE.
--The game has just 3 functions in the main.
+- The program can print the board after every turn.
+- The game can be played by two users.
+- The game has a user friendly coordinate system that helps the users to make each move.
+- The program has colored pieces to differentiate between two users: RED and BLUE.
+- The game has just 3 functions in the main.
 
 Developers:
 - Christian Myers - myers2ci@mail.uc.edu
@@ -40,4 +40,5 @@ Developers:
 - Matthew Elaban - elabanmc@mail.uc.edu
 
 Special Instructions:
--Read the intruction throughout the game carefully.
+
+- Read the intruction throughout the game carefully.
