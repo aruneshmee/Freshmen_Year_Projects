@@ -23,3 +23,20 @@ Game Rules:
 You pick a number from 1 to 6, and call this number your point.  You then roll a die 3 times.  If there is any match with your point, then you win $1; otherwise you pay the house $1.
 
 # CHESS
+
+Description: The game is basically similar to regular chess game.
+
+INTERESTING FACTS ABOUT OUR PROGRAM:
+@ The program can print the board after every turn.
+@ The game can be played by two users.
+@ The game has a user friendly coordinate system that helps the users to make each move.
+@ The program has colored pieces to differentiate between two users: RED and BLUE.
+@ The game has just 3 functions in the main.
+
+Developers:
+ * - Christian Myers - myers2ci@mail.uc.edu
+ * - Arunesh Mishra - mishraa5@mail.uc.edu
+ * - Matthew Elaban - elabanmc@mail.uc.edu
+ *
+Special Instructions:
+ * Read the intruction throughout the game carefully.
