@@ -66,17 +66,3 @@ def start_calendar():
   
 start_calendar()
             
-        
-      
-      
-      
-      
-      
-      
-    
-    
-  
-  
-  
-
-
