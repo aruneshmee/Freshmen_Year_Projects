@@ -41,4 +41,4 @@ Developers:
 
 Special Instructions:
 
-- Read the intruction throughout the game carefully.
+- Read the instructions throughout the game carefully.
