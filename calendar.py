@@ -1,6 +1,7 @@
 '''Multi command line calender
 bgbug'''
 
+# importing lib
 from time import sleep, strftime
 name = raw_input("Enter your name: ")
 calendar = {}
