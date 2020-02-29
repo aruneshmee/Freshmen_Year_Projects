@@ -15,6 +15,7 @@ def welcome():
   sleep(1)
   print "What would you like to do?"
 
+ # start of calendar
 def start_calendar():
   welcome()
   start = True
